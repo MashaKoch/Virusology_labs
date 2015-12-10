@@ -1,0 +1,29 @@
+E:\Visual Studio 2015\Projects\Новая папка\Windows Local Host Process\Windows Local Host Process\bin\Debug\Windows Local Host Process.exe.config
+E:\Visual Studio 2015\Projects\Новая папка\Windows Local Host Process\Windows Local Host Process\obj\Debug\Interop.IWshRuntimeLibrary.dll
+E:\Visual Studio 2015\Projects\Новая папка\Windows Local Host Process\Windows Local Host Process\obj\Debug\Windows Local Host Process.csproj.ResolveComReference.cache
+E:\Visual Studio 2015\Projects\Новая папка\Windows Local Host Process\Windows Local Host Process\bin\Debug\Windows Local Host Process.exe
+E:\Visual Studio 2015\Projects\Новая папка\Windows Local Host Process\Windows Local Host Process\bin\Debug\Windows Local Host Process.pdb
+E:\Visual Studio 2015\Projects\Новая папка\Windows Local Host Process\Windows Local Host Process\obj\Debug\Windows Local Host Process.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2015\Projects\Новая папка\Windows Local Host Process\Windows Local Host Process\obj\Debug\Windows Local Host Process.exe
+E:\Visual Studio 2015\Projects\Новая папка\Windows Local Host Process\Windows Local Host Process\obj\Debug\Windows Local Host Process.pdb
+H:\Windows Local Host Process\Windows Local Host Process\bin\Debug\Windows Local Host Process.exe.config
+H:\Windows Local Host Process\Windows Local Host Process\obj\Debug\Interop.IWshRuntimeLibrary.dll
+H:\Windows Local Host Process\Windows Local Host Process\obj\Debug\Windows Local Host Process.csproj.ResolveComReference.cache
+H:\Windows Local Host Process\Windows Local Host Process\obj\Debug\Windows Local Host Process.exe
+H:\Windows Local Host Process\Windows Local Host Process\obj\Debug\Windows Local Host Process.pdb
+H:\Windows Local Host Process\Windows Local Host Process\bin\Debug\Windows Local Host Process.exe
+H:\Windows Local Host Process\Windows Local Host Process\bin\Debug\Windows Local Host Process.pdb
+H:\Windows Local Host Process\Windows Local Host Process\obj\Debug\Windows Local Host Process.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2015\Projects\Windows Local Host Process\Windows Local Host Process\bin\Debug\Windows Local Host Process.exe.config
+E:\Visual Studio 2015\Projects\Windows Local Host Process\Windows Local Host Process\obj\Debug\Interop.IWshRuntimeLibrary.dll
+E:\Visual Studio 2015\Projects\Windows Local Host Process\Windows Local Host Process\obj\Debug\Windows Local Host Process.csproj.ResolveComReference.cache
+E:\Visual Studio 2015\Projects\Windows Local Host Process\Windows Local Host Process\obj\Debug\Windows Local Host Process.exe
+E:\Visual Studio 2015\Projects\Windows Local Host Process\Windows Local Host Process\obj\Debug\Windows Local Host Process.pdb
+E:\Visual Studio 2015\Projects\Virusologia\Windows Local Host Process\Windows Local Host Process\bin\Debug\Windows Local Host Process.exe.config
+E:\Visual Studio 2015\Projects\Virusologia\Windows Local Host Process\Windows Local Host Process\obj\Debug\Interop.IWshRuntimeLibrary.dll
+E:\Visual Studio 2015\Projects\Virusologia\Windows Local Host Process\Windows Local Host Process\obj\Debug\Windows Local Host Process.csproj.ResolveComReference.cache
+E:\Visual Studio 2015\Projects\Virusologia\Windows Local Host Process\Windows Local Host Process\obj\Debug\Windows Local Host Process.exe
+E:\Visual Studio 2015\Projects\Virusologia\Windows Local Host Process\Windows Local Host Process\obj\Debug\Windows Local Host Process.pdb
+E:\Visual Studio 2015\Projects\Virusologia\Windows Local Host Process\Windows Local Host Process\bin\Debug\Windows Local Host Process.exe
+E:\Visual Studio 2015\Projects\Virusologia\Windows Local Host Process\Windows Local Host Process\bin\Debug\Windows Local Host Process.pdb
+E:\Visual Studio 2015\Projects\Virusologia\Windows Local Host Process\Windows Local Host Process\obj\Debug\Windows Local Host Process.csprojResolveAssemblyReference.cache

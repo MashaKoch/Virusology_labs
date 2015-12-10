@@ -1,0 +1,9 @@
+E:\Visual Studio 2015\Projects\Virusologia\HideProcess\HideProcess\bin\Release\HideProcess.exe.config
+E:\Visual Studio 2015\Projects\Virusologia\HideProcess\HideProcess\bin\Release\HideProcess.exe
+E:\Visual Studio 2015\Projects\Virusologia\HideProcess\HideProcess\bin\Release\HideProcess.pdb
+E:\Visual Studio 2015\Projects\Virusologia\HideProcess\HideProcess\obj\Release\HideProcess.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2015\Projects\Virusologia\HideProcess\HideProcess\obj\Release\HideProcess.Form1.resources
+E:\Visual Studio 2015\Projects\Virusologia\HideProcess\HideProcess\obj\Release\HideProcess.Properties.Resources.resources
+E:\Visual Studio 2015\Projects\Virusologia\HideProcess\HideProcess\obj\Release\HideProcess.csproj.GenerateResource.Cache
+E:\Visual Studio 2015\Projects\Virusologia\HideProcess\HideProcess\obj\Release\HideProcess.exe
+E:\Visual Studio 2015\Projects\Virusologia\HideProcess\HideProcess\obj\Release\HideProcess.pdb
